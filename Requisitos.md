@@ -13,3 +13,8 @@
 - RNF-01: El sistema debe ser fácil de utilizar.
 - RNF-02: La información debe mantenerse organizada.
   
+
+
+## Nueva mejora propuesta
+
+- RF-06: El sistema debe permitir enviar notificaciones cuando la fecha de devolución de un libro esté próxima.
